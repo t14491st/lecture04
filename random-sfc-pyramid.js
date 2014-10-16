@@ -12,7 +12,7 @@ var nSFC = function(n){
 };
 
 
-var nRandomSFCPyramid = function(n){
+var RandomSFCPyramid = function(n){
   var n = Math.floor(Math.random() * 100);
  
   var output = "";
@@ -27,4 +27,4 @@ var nRandomSFCPyramid = function(n){
   };
 
 
-nRandomSFCPyramid()
+RandomSFCPyramid()
